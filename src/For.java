@@ -11,6 +11,7 @@ public class For {
         System.out.println(sum);
 
 
+
        sum = 0;
 
         for(int b = 1; b<10; b++) {
