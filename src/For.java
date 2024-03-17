@@ -8,6 +8,7 @@ public class For {
         }
 
 
+
         System.out.println(sum);
 
 
