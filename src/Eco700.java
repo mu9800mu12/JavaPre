@@ -22,6 +22,8 @@ public class Eco700 {
     }
 
 
+
+
     // 용어와 설명 추출하는 메서드
     public static Map<String, String> extractTermsAndDefinitions(String text) {
         Map<String, String> termsAndDefinitions = new HashMap<>();
